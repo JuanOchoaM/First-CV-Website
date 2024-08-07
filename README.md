@@ -2,9 +2,6 @@
 
 ## Contact
 - **Name:** Juan Miguel Ochoa
-- **Email:** [Your Email]
-- **Phone:** [Your Phone Number]
-- **LinkedIn:** [Your LinkedIn Profile]
 
 ## About Me
 Hello! I am a student at the University of Georgia. I am passionate about Music and Computer Science, and I hope to work in those fields together.
